@@ -11,7 +11,7 @@ This portfolio features data analysis projects utilizing Python and SQL, with a 
 - Visualizations
 - Insights or conclusions drawn
 
-#### A&W (Sale Forecasting and Inventory optimization) 
+#### 1. A&W (Sale Forecasting and Inventory optimization) 
 > Excel | Python | Tableau | PowerBI  
 - Led data analysis projects focused on sales forecasting and inventory optimization using machine learning algorithms, resulting in a significant reduction in excess stock and enhanced revenue streams.
 - Developed data visualizations to identify sales patterns, product performance, and geographical insights, leading to targeted marketing strategies that increased sales by 8% in two locations.
@@ -21,7 +21,7 @@ This portfolio features data analysis projects utilizing Python and SQL, with a 
 - Visualizations (Tableau | Excel | PowerBI)
 - Insights or conclusions drawn
 
-#### Costco (Gas Sales and Price Forecasting)  
+#### 2. Costco (Gas Sales and Price Forecasting)  
 > Excel | Python | Tableau | PowerBI  
 - Collected and managed gas sales, inventory, and delivery data using Google Workspace tools (Docs, Sheets, Drive, Forms) for efficient daily operations.
 - Led data analysis project to forecast unleaded and premium gas sales based on pricing, weather, historical data, and other factors, optimizing inventory planning.
@@ -32,7 +32,7 @@ This portfolio features data analysis projects utilizing Python and SQL, with a 
 - Visualizations
 - Insights or conclusions drawn
 
-#### TSX 
+#### 3. TSX 
 > Excel | Python | Tableau | PowerBI  
 - Stock Price Prediction | Portfolio Diversification Analysis | Stock Market Clustering
 - Relative Strength Analysis | Correlation Analysis | My portfolio analysis
