@@ -17,6 +17,7 @@ This portfolio features data analysis projects utilizing Python and SQL, with a 
 - Developed data visualizations to identify sales patterns, product performance, and geographical insights, leading to targeted marketing strategies that increased sales by 8% in two locations.
 - The central goal is to enhance profit margins by leveraging insights derived from identifying sales patterns and product performance, thereby enabling the development of targeted marketing strategies and the reduction of excess inventory.
 - [Data source](https://docs.google.com/spreadsheets/d/11KX8gmEfJqTC1QwU_jVFVG2OGzxZ982dUW1hyzCvOFE/edit#gid=0)
+- [Weather Dataset](https://toronto.weatherstats.ca/download.html)
 - Data analysis techniques used
 - Visualizations (Tableau | Excel | PowerBI)
 - Insights or conclusions drawn
